@@ -23,7 +23,7 @@ export default function AdminPeople({people,onSaved}:Props){
  const {error}=await supabase.storage.from('obsidex-images').upload(path,file,{upsert:false,contentType:file.type});
  if(error){setStatus(`Erreur d’envoi : ${error.message}`);setUploading(false);return;}
  const value=`/images/${path}`;
- if(target==='gallery')field('gallery',[...(draft.gallery||[]),value]);else field(target,value);
+ if(target==='gallery')setDraft(old=>({...old,gallery:[...(old.gallery||[]),value]}));else field(target,value);
  setStatus('Image envoyée. Enregistre ensuite la fiche pour conserver le changement.');setUploading(false);
  }
  function add(){const p=blank();setDraft(p);setCurrentId(p.id);setIsNew(true);setStatus('Nouvelle fiche : complète les champs puis enregistre.');}
