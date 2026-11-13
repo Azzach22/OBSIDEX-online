@@ -1,5 +1,5 @@
 import {useEffect,useMemo,useState,type FormEvent} from 'react';
-import {Save,Plus,Search,UserRound,ImagePlus} from 'lucide-react';
+import {Save,Plus,Search,UserRound} from 'lucide-react';
 import type {Person} from './types';
 import {configured,supabase} from './lib/supabase';
 
