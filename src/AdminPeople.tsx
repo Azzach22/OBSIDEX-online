@@ -6,7 +6,7 @@ import {configured,supabase} from './lib/supabase';
 type Props={people:Person[];onSaved:(person:Person)=>void};
 const blank=():Person=>({id:`p-${Date.now()}`,name:'Nouveau personnage',type:'Élève',rank:undefined,className:'',age:'',nationality:'',club:'',power:'',summary:'',relations:[],personality:[],np:'',cardImage:'',profileImage:'',gallery:[]});
 export default function AdminPeople({people,onSaved}:Props){
- const [currentId,setCurrentId]=useState(people[0]?.id||'');const [draft,setDraft]=useState<Person>(people[0]||blank());const [isNew,setIsNew]=useState(false);const [search,setSearch]=useState('');const [status,setStatus]=useState('');
+ const [currentId,setCurrentId]=useState(people[0]?.id||'');const [draft,setDraft]=useState<Person>(people[0]||blank());const [isNew,setIsNew]=useState(false);const [search,setSearch]=useState('');const [status,setStatus]=useState('');const [uploading,setUploading]=useState(false);
  useEffect(()=>{if(!isNew){const p=people.find(x=>x.id===currentId);if(p)setDraft(p);else if(people[0]){setCurrentId(people[0].id);setDraft(people[0]);}}},[people,currentId,isNew]);
  const choices=useMemo(()=>people.filter(p=>p.name.toLocaleLowerCase('fr').includes(search.toLocaleLowerCase('fr'))).sort((a,b)=>a.name.localeCompare(b.name,'fr')),[people,search]);
  function field<K extends keyof Person>(key:K,value:Person[K]){setDraft(old=>({...old,[key]:value}));}
