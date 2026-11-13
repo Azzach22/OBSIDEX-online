@@ -1,0 +1,978 @@
+[
+  {
+    "personId": "p1",
+    "personName": "Diavono Comoretto",
+    "role": "card",
+    "path": "/images/students/diavono-comoretto-p1-card.jpg",
+    "bytes": 206517,
+    "sha256": "f43ce8891cedbd8b15f13c2849dc2a821ea3055d301767830f08c22d077d4d8e"
+  },
+  {
+    "personId": "p2",
+    "personName": "Rirka Brise-humain",
+    "role": "card",
+    "path": "/images/students/rirka-brise-humain-p2-card.jpg",
+    "bytes": 288424,
+    "sha256": "a0441ee7d1319f82da73f62177cf80403078a89ecac3485ad597aa03be4f64e5"
+  },
+  {
+    "personId": "p3",
+    "personName": "Roderick Medicus",
+    "role": "card",
+    "path": "/images/students/roderick-medicus-p3-card.jpg",
+    "bytes": 234408,
+    "sha256": "89a780caa33cce6031a858665956e3ab59aa99238509d934fa628d6adbd0fb14"
+  },
+  {
+    "personId": "p4",
+    "personName": "Emmy Jiva",
+    "role": "card",
+    "path": "/images/students/emmy-jiva-p4-card.jpg",
+    "bytes": 233992,
+    "sha256": "459e39d063e60a28890835120c80ac40807606b9d532b296587627d2d09f093e"
+  },
+  {
+    "personId": "p5",
+    "personName": "Lilith Cinder",
+    "role": "card",
+    "path": "/images/students/lilith-cinder-p5-card.jpg",
+    "bytes": 145558,
+    "sha256": "3ef419962410312bfb8cd98d9e3b72f7e2a55c8d6111868e86c14de2c8c8e3fc"
+  },
+  {
+    "personId": "p5",
+    "personName": "Lilith Cinder",
+    "role": "gallery-1",
+    "path": "/images/gallery/lilith-cinder-p5-gallery-1.png",
+    "bytes": 1923990,
+    "sha256": "4130de0e0841b22dbc3983e88b1675f811ac114f0fdb92d703659206fa98856d"
+  },
+  {
+    "personId": "p6",
+    "personName": "Bianca Sforza",
+    "role": "card",
+    "path": "/images/students/bianca-sforza-p6-card.jpg",
+    "bytes": 258730,
+    "sha256": "f5a9e258edd9ee6140c5495662db75d81a1d76a00978aa2b267a9997cd0229c5"
+  },
+  {
+    "personId": "p6",
+    "personName": "Bianca Sforza",
+    "role": "gallery-1",
+    "path": "/images/gallery/bianca-sforza-p6-gallery-1.png",
+    "bytes": 1687840,
+    "sha256": "dbc7a4eb3b2d5216fd19740446fc9f9898d8706b5f859c04b5a1b56e8eb1f003"
+  },
+  {
+    "personId": "p7",
+    "personName": "Silas Blackwood",
+    "role": "card",
+    "path": "/images/students/silas-blackwood-p7-card.jpg",
+    "bytes": 215300,
+    "sha256": "e2f247795dee38b999650bb46e9315b01140eadc2a7bdcb983aafebbdf95fabc"
+  },
+  {
+    "personId": "p8",
+    "personName": "Luan Morneth",
+    "role": "card",
+    "path": "/images/students/luan-morneth-p8-card.jpg",
+    "bytes": 175700,
+    "sha256": "b25899264c4a070dd1808a458c35ef9c49a6bb31f35aaa4a2693bcfb76199c52"
+  },
+  {
+    "personId": "p8",
+    "personName": "Luan Morneth",
+    "role": "gallery-1",
+    "path": "/images/gallery/luan-morneth-p8-gallery-1.png",
+    "bytes": 2073549,
+    "sha256": "788d70c018e2ba8ed8a08e9365c7080d8e3d1ecd760a7894f316efb3a768f07b"
+  },
+  {
+    "personId": "p8",
+    "personName": "Luan Morneth",
+    "role": "gallery-2",
+    "path": "/images/gallery/luan-morneth-p8-gallery-2.png",
+    "bytes": 2149391,
+    "sha256": "08dadd5120b783285bfd0f715c9cfc246163fd7f829689e4528e915cfeebf855"
+  },
+  {
+    "personId": "p8",
+    "personName": "Luan Morneth",
+    "role": "gallery-3",
+    "path": "/images/gallery/luan-morneth-p8-gallery-3.png",
+    "bytes": 1943234,
+    "sha256": "ece954e045711dfcbe8a319c3df676d18762208e74d96b7a217590aafa0f9129"
+  },
+  {
+    "personId": "p9",
+    "personName": "Josephine Stone",
+    "role": "card",
+    "path": "/images/students/josephine-stone-p9-card.jpg",
+    "bytes": 1897471,
+    "sha256": "5daea816fa8711b58103e1af18f6320f4ce22eb33968b76ee849c5d862f99fa2"
+  },
+  {
+    "personId": "p10",
+    "personName": "Samia Altomira",
+    "role": "card",
+    "path": "/images/students/samia-altomira-p10-card.jpg",
+    "bytes": 182143,
+    "sha256": "c386d9fc79cb2fb445d13fe4c1e45ec54bf386c1f3eb630f974e7ef283079af5"
+  },
+  {
+    "personId": "p11",
+    "personName": "Lavinia Blackwell",
+    "role": "card",
+    "path": "/images/students/lavinia-blackwell-p11-card.jpg",
+    "bytes": 226109,
+    "sha256": "d1e63b10007c6e6186907377ca4d98255ee66a8d9e3390678556d4dd953c256f"
+  },
+  {
+    "personId": "p12",
+    "personName": "Octavia Duxalin",
+    "role": "card",
+    "path": "/images/students/octavia-duxalin-p12-card.jpg",
+    "bytes": 239708,
+    "sha256": "fda1ac91e27d079e401149fcd7a6e92278c182e49ac121b3b00b1df272909939"
+  },
+  {
+    "personId": "p12",
+    "personName": "Octavia Duxalin",
+    "role": "gallery-1",
+    "path": "/images/gallery/octavia-duxalin-p12-gallery-1.png",
+    "bytes": 3455495,
+    "sha256": "77230f7fa6563e627bcff4f783da1ce2c4fe489a8c0fe13fddb3459eccd9ce12"
+  },
+  {
+    "personId": "p13",
+    "personName": "Javier de la Cruz",
+    "role": "card",
+    "path": "/images/students/javier-de-la-cruz-p13-card.jpg",
+    "bytes": 481627,
+    "sha256": "8ce806fb50aae704538458ed6437303b8ebf5c7b986c8d1d06d4f36fadcd8ca4"
+  },
+  {
+    "personId": "p14",
+    "personName": "Clara Malsca",
+    "role": "card",
+    "path": "/images/students/clara-malsca-p14-card.jpg",
+    "bytes": 2576157,
+    "sha256": "a23fd14d4a42e381e058a65e8096e0ccc877f6d63056a38fb78d773245214209"
+  },
+  {
+    "personId": "p14",
+    "personName": "Clara Malsca",
+    "role": "gallery-1",
+    "path": "/images/gallery/clara-malsca-p14-gallery-1.png",
+    "bytes": 2725121,
+    "sha256": "d0e026892ddaeb3ca306cb6d4ab47538bc4d0cdbd65394d6dd191e11d021c830"
+  },
+  {
+    "personId": "p15",
+    "personName": "Saenah Morneth",
+    "role": "card",
+    "path": "/images/students/saenah-morneth-p15-card.png",
+    "bytes": 2644072,
+    "sha256": "853e771c9b8f8a60c09d625afcff8f43ce9f8b47009d21d8a9d16b5208170ea4"
+  },
+  {
+    "personId": "p15",
+    "personName": "Saenah Morneth",
+    "role": "gallery-1",
+    "path": "/images/gallery/saenah-morneth-p15-gallery-1.png",
+    "bytes": 1186720,
+    "sha256": "ec37c90d007317254332ff391f70dcd461d8d003186ecfa46a7059d72cf74283"
+  },
+  {
+    "personId": "p15",
+    "personName": "Saenah Morneth",
+    "role": "gallery-2",
+    "path": "/images/gallery/saenah-morneth-p15-gallery-2.jpg",
+    "bytes": 228318,
+    "sha256": "e14ed6684914d89daf210211a1840caffda02ac061195103361347b9eb101356"
+  },
+  {
+    "personId": "p15",
+    "personName": "Saenah Morneth",
+    "role": "gallery-3",
+    "path": "/images/gallery/saenah-morneth-p15-gallery-3.png",
+    "bytes": 2157454,
+    "sha256": "ef9434f8177fa6940d374f031fe4b74c40d565937c2b0824f14b49f1a7fe3292"
+  },
+  {
+    "personId": "p15",
+    "personName": "Saenah Morneth",
+    "role": "gallery-4",
+    "path": "/images/gallery/saenah-morneth-p15-gallery-4.png",
+    "bytes": 3395522,
+    "sha256": "68d0eb8c0ca42b399d81efd2359564b2baaa6e1992b5d80116bf9c8e0432efdd"
+  },
+  {
+    "personId": "p16",
+    "personName": "Licia Borges",
+    "role": "card",
+    "path": "/images/students/licia-borges-p16-card.jpg",
+    "bytes": 570001,
+    "sha256": "540b28d097140d95beeaff8928e187a708b35fbd1f8fd08fb08484f6924f5ed9"
+  },
+  {
+    "personId": "p17",
+    "personName": "Valerius Jordan",
+    "role": "card",
+    "path": "/images/students/valerius-jordan-p17-card.jpg",
+    "bytes": 181423,
+    "sha256": "1a8b1f767fc611c4b3015e025e25b1f83767961dec17b163d290d1b17f5107a3"
+  },
+  {
+    "personId": "p18",
+    "personName": "Tamara Loy",
+    "role": "card",
+    "path": "/images/students/tamara-loy-p18-card.jpg",
+    "bytes": 465065,
+    "sha256": "97b68c71c8eb4c41c3664b3a1aa098813c5f060bac854d9ec8bf5e2aef5986f0"
+  },
+  {
+    "personId": "p19",
+    "personName": "Cynatha Crestkin",
+    "role": "card",
+    "path": "/images/students/cynatha-crestkin-p19-card.jpg",
+    "bytes": 247035,
+    "sha256": "9f3cc61ba1269e5162c1673525b5f26d087a6d733c82f28d5e08cdd4ae6d1773"
+  },
+  {
+    "personId": "p20",
+    "personName": "Abona Melnais",
+    "role": "card",
+    "path": "/images/students/abona-melnais-p20-card.jpg",
+    "bytes": 2538381,
+    "sha256": "c3bfd1a8629f3d0e029bc14e8068ab3ff23f35a59b9399045a8e539df6582a7c"
+  },
+  {
+    "personId": "p20",
+    "personName": "Abona Melnais",
+    "role": "gallery-1",
+    "path": "/images/gallery/abona-melnais-p20-gallery-1.png",
+    "bytes": 2018956,
+    "sha256": "945eb5dd1d86a41cb6e634d54641058385b776c5b37d91d32bc3c9ce0a59c3bd"
+  },
+  {
+    "personId": "p21",
+    "personName": "Rock Aldias",
+    "role": "card",
+    "path": "/images/students/rock-aldias-p21-card.jpg",
+    "bytes": 214869,
+    "sha256": "b3549fa87cddba25ea5f2a522d347ef2e426a0345dc669fbcadcedbadf1887c1"
+  },
+  {
+    "personId": "p22",
+    "personName": "Arthas Sunblight",
+    "role": "card",
+    "path": "/images/students/arthas-sunblight-p22-card.jpg",
+    "bytes": 246614,
+    "sha256": "90222a82e37234b304a919193d00572a5cfd5ffd501d3bf76fae2eb730a50f65"
+  },
+  {
+    "personId": "p23",
+    "personName": "Ilona Varga",
+    "role": "card",
+    "path": "/images/students/ilona-varga-p23-card.jpg",
+    "bytes": 2773505,
+    "sha256": "1c75c27f555f43abab3487b91ec59b3ae47cdb6abc1f29a376d2ab3710effcbf"
+  },
+  {
+    "personId": "p23",
+    "personName": "Ilona Varga",
+    "role": "gallery-1",
+    "path": "/images/gallery/ilona-varga-p23-gallery-1.png",
+    "bytes": 2025157,
+    "sha256": "6fab392af48e4bec3f50d68c7f1eb90e607121f2a2d3a64c304b3ce11ed040ec"
+  },
+  {
+    "personId": "p24",
+    "personName": "Geoni Alderton",
+    "role": "card",
+    "path": "/images/students/geoni-alderton-p24-card.jpg",
+    "bytes": 169094,
+    "sha256": "9d14701eed6f1e12da08ee62b2c8f18cf48e78c3efb2b02ecf28da7dfaf7d65c"
+  },
+  {
+    "personId": "p26",
+    "personName": "Edith Proctor",
+    "role": "card",
+    "path": "/images/students/edith-proctor-p26-card.jpg",
+    "bytes": 277656,
+    "sha256": "b6920b7abe2915f0a0f45a637b1d2e63dafac68f3c49c20177ded81f3142e3ec"
+  },
+  {
+    "personId": "p27",
+    "personName": "Skadi Stjarnadottir",
+    "role": "card",
+    "path": "/images/students/skadi-stjarnadottir-p27-card.png",
+    "bytes": 2754990,
+    "sha256": "6bfc5a82fedb12ddd3b610941596480f9743663e24fb8c62b585bd4208e2bd07"
+  },
+  {
+    "personId": "p27",
+    "personName": "Skadi Stjarnadottir",
+    "role": "profile",
+    "path": "/images/students/skadi-stjarnadottir-p27-profile.jpg",
+    "bytes": 245480,
+    "sha256": "4b04aae695523e45f06ec491861e80c118c15637efb682fb77b381c1d96bd848"
+  },
+  {
+    "personId": "p27",
+    "personName": "Skadi Stjarnadottir",
+    "role": "gallery-1",
+    "path": "/images/gallery/skadi-stjarnadottir-p27-gallery-1.png",
+    "bytes": 2898723,
+    "sha256": "139e598eaecc6651bd1711d480f176fe9c0ee52f36bb627e3baea24a3f8ca800"
+  },
+  {
+    "personId": "p27",
+    "personName": "Skadi Stjarnadottir",
+    "role": "gallery-2",
+    "path": "/images/gallery/skadi-stjarnadottir-p27-gallery-2.png",
+    "bytes": 3322491,
+    "sha256": "dc16c875a5bfd19eb91695d39ef3c484a9c950d13d85314fc9dece13f7d7c037"
+  },
+  {
+    "personId": "p27",
+    "personName": "Skadi Stjarnadottir",
+    "role": "gallery-4",
+    "path": "/images/gallery/skadi-stjarnadottir-p27-gallery-4.png",
+    "bytes": 1600118,
+    "sha256": "6e283013bb723a8f048701909bdf8f380c7470e7588c733ed23c60e00b309db8"
+  },
+  {
+    "personId": "p28",
+    "personName": "Doran Kestrel",
+    "role": "card",
+    "path": "/images/students/doran-kestrel-p28-card.jpg",
+    "bytes": 277396,
+    "sha256": "f0c4173554d9e83265d92cf9fd9f482a8fce024ae5828a0e49d490f403bf2c6c"
+  },
+  {
+    "personId": "p29",
+    "personName": "Meriline Olsen",
+    "role": "card",
+    "path": "/images/students/meriline-olsen-p29-card.jpg",
+    "bytes": 709481,
+    "sha256": "44e841c28057c5221adfa7d4746097e26a2cfa812e35a83847ab334d2ada6bcd"
+  },
+  {
+    "personId": "p30",
+    "personName": "Björn Galsen",
+    "role": "card",
+    "path": "/images/students/bj-rn-galsen-p30-card.jpg",
+    "bytes": 182596,
+    "sha256": "84ee0323dd9b9f552654880b735007f87861b213494ee9fe4419fa7e55287ee1"
+  },
+  {
+    "personId": "p31",
+    "personName": "Marjie Blackwell",
+    "role": "card",
+    "path": "/images/students/marjie-blackwell-p31-card.jpg",
+    "bytes": 205781,
+    "sha256": "41669c329486b6b79bc3d403ae2e468a374c88b059629309c4a70fee009624f7"
+  },
+  {
+    "personId": "p32",
+    "personName": "Mordecai Blythe",
+    "role": "card",
+    "path": "/images/students/mordecai-blythe-p32-card.jpg",
+    "bytes": 501268,
+    "sha256": "d76f1d8d10f0df172a2867dd880e85d7f3bbf26db0e1a067558c3ed7c0fa7fc7"
+  },
+  {
+    "personId": "p33",
+    "personName": "Adelaide Rooks",
+    "role": "card",
+    "path": "/images/students/adelaide-rooks-p33-card.jpg",
+    "bytes": 168236,
+    "sha256": "c4686b6692af08227eb66903d3fd98ac1ad4d7b0c0180e3407c984a2b9832cad"
+  },
+  {
+    "personId": "p34",
+    "personName": "Elowen Franz",
+    "role": "card",
+    "path": "/images/students/elowen-franz-p34-card.jpg",
+    "bytes": 236679,
+    "sha256": "28f2496fc0b107e3572bacbd70475332c1840b9d74992a9b42b488b1fc5ba776"
+  },
+  {
+    "personId": "p35",
+    "personName": "Junior Waltan",
+    "role": "card",
+    "path": "/images/students/junior-waltan-p35-card.jpg",
+    "bytes": 199832,
+    "sha256": "814426c012e5d18839c5b4c300b28753d44b0e10f322662d7daf3983b3a3b71b"
+  },
+  {
+    "personId": "p36",
+    "personName": "Georgina Boggs",
+    "role": "card",
+    "path": "/images/students/georgina-boggs-p36-card.jpg",
+    "bytes": 581830,
+    "sha256": "e21f6d3ad5fb7dbbe661653dcd1bfebd62318d6e07fafa212256378910ee91af"
+  },
+  {
+    "personId": "p37",
+    "personName": "Galadwen Nightwind",
+    "role": "card",
+    "path": "/images/students/galadwen-nightwind-p37-card.jpg",
+    "bytes": 240126,
+    "sha256": "e996182e10fcc63907a461ffae9baab7b5d195eb4641281bcdea1f6613ab310f"
+  },
+  {
+    "personId": "p38",
+    "personName": "Zerr Thorpe",
+    "role": "card",
+    "path": "/images/students/zerr-thorpe-p38-card.jpg",
+    "bytes": 2162950,
+    "sha256": "5135bfafd912762e07913fc15610428b905238d55de1135e0ec1b7e686a5ebc1"
+  },
+  {
+    "personId": "p39",
+    "personName": "Gaspard Delancre",
+    "role": "card",
+    "path": "/images/students/gaspard-delancre-p39-card.jpg",
+    "bytes": 219284,
+    "sha256": "6c35916f537c7835cab6f72ec45bd412a8f2bfde363aa4f19c466bd273f7da95"
+  },
+  {
+    "personId": "p40",
+    "personName": "Eliza Aubrey",
+    "role": "card",
+    "path": "/images/students/eliza-aubrey-p40-card.jpg",
+    "bytes": 244763,
+    "sha256": "43ecde7df33a4fe40fdfe1439c7692da1c8da66ad9b1e9599deeda2d2ad64b99"
+  },
+  {
+    "personId": "p41",
+    "personName": "Iris Greenwood",
+    "role": "card",
+    "path": "/images/students/iris-greenwood-p41-card.jpg",
+    "bytes": 235687,
+    "sha256": "26e1dd4c11b8447f4cf21bfbedcd1ecad1693a4e8d48c82a1902cdca48c0f73c"
+  },
+  {
+    "personId": "p42",
+    "personName": "Maeve Alderton",
+    "role": "card",
+    "path": "/images/students/maeve-alderton-p42-card.jpg",
+    "bytes": 608848,
+    "sha256": "9c07cfea7e595a8fffbe709a917b8e27a0a90809867d5b3a8c75d56001dc6e27"
+  },
+  {
+    "personId": "p43",
+    "personName": "Thalia Arkham",
+    "role": "card",
+    "path": "/images/students/thalia-arkham-p43-card.jpg",
+    "bytes": 208159,
+    "sha256": "f4b92301ee85b7b6ed26f3d0047cf49a102ea94482c1e02097738a5d31c5125c"
+  },
+  {
+    "personId": "p43",
+    "personName": "Thalia Arkham",
+    "role": "gallery-1",
+    "path": "/images/gallery/thalia-arkham-p43-gallery-1.png",
+    "bytes": 1798611,
+    "sha256": "4f7329355cb8ee34db501278390f1c8e90289834aebf58ea4c45868fefc9124f"
+  },
+  {
+    "personId": "p43",
+    "personName": "Thalia Arkham",
+    "role": "gallery-2",
+    "path": "/images/gallery/thalia-arkham-p43-gallery-2.png",
+    "bytes": 1745714,
+    "sha256": "9fb9b150e7fe60e908e539c1a9234cd8402ff82f1349e84d2d4bdbf2061fbb40"
+  },
+  {
+    "personId": "p43",
+    "personName": "Thalia Arkham",
+    "role": "gallery-3",
+    "path": "/images/gallery/thalia-arkham-p43-gallery-3.png",
+    "bytes": 2144003,
+    "sha256": "d2544f8f372b82e1d8fb3944cb0f91eeb015fbbb7c65493951d899795c58cb93"
+  },
+  {
+    "personId": "p44",
+    "personName": "Irena Kostic",
+    "role": "card",
+    "path": "/images/students/irena-kostic-p44-card.jpg",
+    "bytes": 204415,
+    "sha256": "1e257fb250a32bf2ed19e4d5995ad5c57ba0d8d7b429a6e1c5c5177defbc5bab"
+  },
+  {
+    "personId": "p45",
+    "personName": "Celestin Risewell",
+    "role": "card",
+    "path": "/images/students/celestin-risewell-p45-card.png",
+    "bytes": 2713851,
+    "sha256": "afc850eef0699c4fe5e8e1f22053cfa717fd92355b426181a1d2de89095d724c"
+  },
+  {
+    "personId": "p45",
+    "personName": "Celestin Risewell",
+    "role": "profile",
+    "path": "/images/students/celestin-risewell-p45-profile.jpg",
+    "bytes": 238438,
+    "sha256": "fa9df0a7dd9c0ccbc8cdca9fbda959b1f642a3124d75d2c4f9d9149082099cc3"
+  },
+  {
+    "personId": "p45",
+    "personName": "Celestin Risewell",
+    "role": "gallery-1",
+    "path": "/images/gallery/celestin-risewell-p45-gallery-1.png",
+    "bytes": 3431188,
+    "sha256": "a8b4366574d7964702dfd38280e754bc94d4ed1857f5a17256fba7062c4e3749"
+  },
+  {
+    "personId": "p45",
+    "personName": "Celestin Risewell",
+    "role": "gallery-3",
+    "path": "/images/gallery/celestin-risewell-p45-gallery-3.png",
+    "bytes": 2797254,
+    "sha256": "559a0d2f849725fab451c2cea5d66233c51dd7463b608888d5e234e847b4bda9"
+  },
+  {
+    "personId": "p45",
+    "personName": "Celestin Risewell",
+    "role": "gallery-4",
+    "path": "/images/gallery/celestin-risewell-p45-gallery-4.png",
+    "bytes": 2945509,
+    "sha256": "a2dd17559213b2a8c78089881a627abeb9bada16a121562b2968ff3082a1baec"
+  },
+  {
+    "personId": "p46",
+    "personName": "Merio Arcanefang",
+    "role": "card",
+    "path": "/images/students/merio-arcanefang-p46-card.jpg",
+    "bytes": 252336,
+    "sha256": "d848306b28ed8efde2cc240b97babb10f43d9b9f9be6f9b1b9039c6909386956"
+  },
+  {
+    "personId": "p47",
+    "personName": "Plev Neiven",
+    "role": "card",
+    "path": "/images/students/plev-neiven-p47-card.jpg",
+    "bytes": 595000,
+    "sha256": "54aea3f5cb7addb5644cec299264b06384228c957f73b454bdf4d5709d7b4132"
+  },
+  {
+    "personId": "p48",
+    "personName": "Evangeline Draken",
+    "role": "card",
+    "path": "/images/students/evangeline-draken-p48-card.jpg",
+    "bytes": 264589,
+    "sha256": "d367161b77ddded331c2e0ab5c8b8e2462099bb52ca82d1529dc5d40e31e4364"
+  },
+  {
+    "personId": "p49",
+    "personName": "Lydia Pike",
+    "role": "card",
+    "path": "/images/students/lydia-pike-p49-card.jpg",
+    "bytes": 308475,
+    "sha256": "ac711136b71d997562509d53138ed40d17e97d4cc19928a07a34a58fa0166b4b"
+  },
+  {
+    "personId": "p50",
+    "personName": "Solomon Keever",
+    "role": "card",
+    "path": "/images/students/solomon-keever-p50-card.jpg",
+    "bytes": 276095,
+    "sha256": "d74b5b26a26bf203ec642b4da4c0a86c473e1a1d0294502011a8a665f78b307c"
+  },
+  {
+    "personId": "p51",
+    "personName": "Saren Bekn",
+    "role": "card",
+    "path": "/images/students/saren-bekn-p51-card.jpg",
+    "bytes": 601550,
+    "sha256": "b764abcc2def27b2ff0a4e34d18543c7307481dd73b04f10fbe33867796316d7"
+  },
+  {
+    "personId": "p52",
+    "personName": "Ethan Hartwald",
+    "role": "card",
+    "path": "/images/students/ethan-hartwald-p52-card.jpg",
+    "bytes": 236348,
+    "sha256": "de6efb88f961f487314ab5e6b6663eb2b82f0a17afc2950bda9de95e13edcfd8"
+  },
+  {
+    "personId": "p53",
+    "personName": "Jane Evablu",
+    "role": "card",
+    "path": "/images/students/jane-evablu-p53-card.png",
+    "bytes": 2526223,
+    "sha256": "cf34d15ae1a4a662693f75c327624cbd6331815d3eb0d8d401499e5217755f74"
+  },
+  {
+    "personId": "p53",
+    "personName": "Jane Evablu",
+    "role": "gallery-1",
+    "path": "/images/gallery/jane-evablu-p53-gallery-1.png",
+    "bytes": 1638748,
+    "sha256": "22e62cdde1ddc738eeee55f51703377281416f310a89627588140cec5a3407e9"
+  },
+  {
+    "personId": "p53",
+    "personName": "Jane Evablu",
+    "role": "gallery-2",
+    "path": "/images/gallery/jane-evablu-p53-gallery-2.jpg",
+    "bytes": 68549,
+    "sha256": "1e56a9971998bcf511add5b1a5404886dca0be0700447486e260d25db9b4d1c4"
+  },
+  {
+    "personId": "p53",
+    "personName": "Jane Evablu",
+    "role": "gallery-3",
+    "path": "/images/gallery/jane-evablu-p53-gallery-3.png",
+    "bytes": 3207712,
+    "sha256": "dcae28a0113eafc4ce1e548e174330a82f4758d72211429ba6c3e0bae9751674"
+  },
+  {
+    "personId": "p53",
+    "personName": "Jane Evablu",
+    "role": "gallery-4",
+    "path": "/images/gallery/jane-evablu-p53-gallery-4.jpg",
+    "bytes": 238053,
+    "sha256": "4a2eb5e07c6245ca555637c9cb7993525004eaa13fea21be8b3f58584ba2a122"
+  },
+  {
+    "personId": "p54",
+    "personName": "Clarissa Sterling",
+    "role": "card",
+    "path": "/images/students/clarissa-sterling-p54-card.jpg",
+    "bytes": 196420,
+    "sha256": "e0fa34bf2c5b01005891f41ca0ec6864d5a15276a2d43aa60bd17255d1c8ea85"
+  },
+  {
+    "personId": "p55",
+    "personName": "Remilia Delancre",
+    "role": "card",
+    "path": "/images/students/remilia-delancre-p55-card.jpg",
+    "bytes": 246184,
+    "sha256": "04f443c36714bb488773533745d22d20c05f88181f8a2a82f1f401d49f285a97"
+  },
+  {
+    "personId": "p56",
+    "personName": "Tav21 Vraith",
+    "role": "card",
+    "path": "/images/students/tav21-vraith-p56-card.jpg",
+    "bytes": 139925,
+    "sha256": "9be7a9f6d93ee732791fd02e2dabc43fdc885fd2d3a805717170ca5b0ebfc388"
+  },
+  {
+    "personId": "p57",
+    "personName": "Lucina Malsca",
+    "role": "card",
+    "path": "/images/students/lucina-malsca-p57-card.jpg",
+    "bytes": 227726,
+    "sha256": "b0c23f08f2197fcf1e8857c0d012a818509f5c31c2234693eb6c57aa46577e0b"
+  },
+  {
+    "personId": "p58",
+    "personName": "Fum Powell",
+    "role": "card",
+    "path": "/images/students/fum-powell-p58-card.jpg",
+    "bytes": 244934,
+    "sha256": "9076273d8076590852dd2aeb7ea70caf70ae30ca6ea6d69431cb1c3323a67d34"
+  },
+  {
+    "personId": "p59",
+    "personName": "Ronar Dordo",
+    "role": "card",
+    "path": "/images/students/ronar-dordo-p59-card.jpg",
+    "bytes": 268353,
+    "sha256": "98314bdd94b52ac4f6b5befb2f076b6f62c7d650a38823dbcac66718578b1da3"
+  },
+  {
+    "personId": "p60",
+    "personName": "Gregor Adler",
+    "role": "card",
+    "path": "/images/students/gregor-adler-p60-card.jpg",
+    "bytes": 135690,
+    "sha256": "7fd17186a295b047c67a05ceebf882870756ec84d76f2472d402ebdaca83dced"
+  },
+  {
+    "personId": "p61",
+    "personName": "Essian Norcard",
+    "role": "card",
+    "path": "/images/students/essian-norcard-p61-card.jpg",
+    "bytes": 228012,
+    "sha256": "564d9428dab97b37a984a8734d3723dcb3a4ccea9a230cdce2246be8b0d78c7b"
+  },
+  {
+    "personId": "p62",
+    "personName": "Abrixia R’Fkung",
+    "role": "card",
+    "path": "/images/students/abrixia-r-fkung-p62-card.jpg",
+    "bytes": 139796,
+    "sha256": "c4311e7e17bfb871589f022491492a1fa77da46e71fb137f462846f05caf0a47"
+  },
+  {
+    "personId": "p63",
+    "personName": "Maelis Corrigan",
+    "role": "card",
+    "path": "/images/students/maelis-corrigan-p63-card.jpg",
+    "bytes": 162499,
+    "sha256": "73e1c7ab0724dbe1735b33969f42b2fd86e3a08916fe52a06f43ea4a45a4ff8f"
+  },
+  {
+    "personId": "p64",
+    "personName": "Eleanor Briarwood",
+    "role": "card",
+    "path": "/images/students/eleanor-briarwood-p64-card.jpg",
+    "bytes": 202521,
+    "sha256": "30777020a380fecf18efbb28cdd5c5819aa0e57cb42a52f2773e3567d587fcb3"
+  },
+  {
+    "personId": "p65",
+    "personName": "Meloïse Valcroix",
+    "role": "card",
+    "path": "/images/students/melo-se-valcroix-p65-card.jpg",
+    "bytes": 223068,
+    "sha256": "f0052d66d8f3710cde92a28b9fb67e4e56bb46a406fb182782d624fafdfbe568"
+  },
+  {
+    "personId": "p66",
+    "personName": "Aridan MacRory",
+    "role": "card",
+    "path": "/images/students/aridan-macrory-p66-card.jpg",
+    "bytes": 172380,
+    "sha256": "b664e781e2b9343ffff6d400fa49616a2e7ec7bdb1acbf222c191ae1840e3317"
+  },
+  {
+    "personId": "p67",
+    "personName": "Revimb Tchiarfol",
+    "role": "card",
+    "path": "/images/students/revimb-tchiarfol-p67-card.jpg",
+    "bytes": 258421,
+    "sha256": "2dc30b65ec30917c6b1ac16720176eccbc506e9e83640b0341012fbbbb182ae1"
+  },
+  {
+    "personId": "p69",
+    "personName": "Yafael Salcedo",
+    "role": "card",
+    "path": "/images/students/yafael-salcedo-p69-card.jpg",
+    "bytes": 157246,
+    "sha256": "f1ff40cfb033734046dcdb15767b812020f9008f3899f06ab86d6a5ecc0204ff"
+  },
+  {
+    "personId": "p70",
+    "personName": "Vanilda Mendes",
+    "role": "card",
+    "path": "/images/students/vanilda-mendes-p70-card.jpg",
+    "bytes": 203386,
+    "sha256": "d1c6da7802b1a1f2bec4a7494e4e0ab1722d84ed5e92efc118ca653292ca90ad"
+  },
+  {
+    "personId": "p71",
+    "personName": "Theodore Bellgrave",
+    "role": "card",
+    "path": "/images/students/theodore-bellgrave-p71-card.jpg",
+    "bytes": 199033,
+    "sha256": "667e976c1ffe5f7eb474b88d7b4b41ce3bd2df3aa9fe6547fb7f3543fbf7dfb3"
+  },
+  {
+    "personId": "p72",
+    "personName": "Vito Malvezzi",
+    "role": "card",
+    "path": "/images/students/vito-malvezzi-p72-card.jpg",
+    "bytes": 220063,
+    "sha256": "ddcb54943c2795d2b7230cf6113008d6254acbf3146ffb594a81c25266975e32"
+  },
+  {
+    "personId": "p73",
+    "personName": "Lenio Vaelar",
+    "role": "card",
+    "path": "/images/students/lenio-vaelar-p73-card.jpg",
+    "bytes": 149278,
+    "sha256": "db010b457ffcbb6dcc6266b872cedce24720dfda0839d51e6bdb9d2474021960"
+  },
+  {
+    "personId": "p74",
+    "personName": "Liora Ben-Ari",
+    "role": "card",
+    "path": "/images/students/liora-ben-ari-p74-card.jpg",
+    "bytes": 176264,
+    "sha256": "14c3b9134755602cce8c89f663a2811f37547a12564d8c43f6f68862d0853f1d"
+  },
+  {
+    "personId": "p75",
+    "personName": "Maria Coleridge",
+    "role": "card",
+    "path": "/images/students/maria-coleridge-p75-card.jpg",
+    "bytes": 209472,
+    "sha256": "30bd3f1faae2237a7e9e5779d1abf6aeec442aab14b7363f2fd49687471809ed"
+  },
+  {
+    "personId": "p76",
+    "personName": "Erin Gallagher",
+    "role": "card",
+    "path": "/images/students/erin-gallagher-p76-card.jpg",
+    "bytes": 226627,
+    "sha256": "91e8b6a48734f3acf152bf1fbb2ad2e901ebeed4904a2969b9c123e5c165ec2d"
+  },
+  {
+    "personId": "p77",
+    "personName": "Fave Kaho",
+    "role": "card",
+    "path": "/images/students/fave-kaho-p77-card.jpg",
+    "bytes": 224743,
+    "sha256": "9bcdc1554efc69052e7d6accf557869d9e63c9d91bbe09e7e918cccbde68c9c3"
+  },
+  {
+    "personId": "p78",
+    "personName": "Ioana Petrescu",
+    "role": "card",
+    "path": "/images/students/ioana-petrescu-p78-card.jpg",
+    "bytes": 158844,
+    "sha256": "e3d6ae35b6984350bae1ed018e5a8b67d924164889a2b13961c9e1fc459cdf18"
+  },
+  {
+    "personId": "p78",
+    "personName": "Ioana Petrescu",
+    "role": "gallery-1",
+    "path": "/images/gallery/ioana-petrescu-p78-gallery-1.png",
+    "bytes": 2509390,
+    "sha256": "5c1f27d5f28022bb4d27518ca24cadffb8a8d88de4752128e92ecca194e2122d"
+  },
+  {
+    "personId": "p79",
+    "personName": "Oscar Fenwick",
+    "role": "card",
+    "path": "/images/students/oscar-fenwick-p79-card.jpg",
+    "bytes": 294279,
+    "sha256": "643afeab7f136f153468f749a1dd0c86d915b03d3545af64a5796347cf23337c"
+  },
+  {
+    "personId": "p80",
+    "personName": "Tristan Monferrand",
+    "role": "card",
+    "path": "/images/students/tristan-monferrand-p80-card.jpg",
+    "bytes": 151628,
+    "sha256": "c73414f0ae59fbdc030987f9ac40ee89e2fa6c3bc51f74ea75b29a9eedd80917"
+  },
+  {
+    "personId": "p81",
+    "personName": "Priya Nair",
+    "role": "card",
+    "path": "/images/students/priya-nair-p81-card.jpg",
+    "bytes": 169448,
+    "sha256": "be17e281b54e319a6931bd5aeba90e32e09c15c092c067ba0781387c211a7af8"
+  },
+  {
+    "personId": "p82",
+    "personName": "Nathano Nelba",
+    "role": "card",
+    "path": "/images/students/nathano-nelba-p82-card.jpg",
+    "bytes": 192110,
+    "sha256": "6d7521c457eddc7b97d424ce6206dbb75f2cd9c5083c15434a1089a0db0d90ad"
+  },
+  {
+    "personId": "f1",
+    "personName": "Garrick Ashcroft",
+    "role": "card",
+    "path": "/images/teachers/garrick-ashcroft-f1-card.jpg",
+    "bytes": 258039,
+    "sha256": "0d4e4518618ecdf4ce57641fba24190638de26461cc2edfca1097b8082178d2b"
+  },
+  {
+    "personId": "f2",
+    "personName": "Odna De Graham",
+    "role": "card",
+    "path": "/images/teachers/odna-de-graham-f2-card.jpg",
+    "bytes": 190911,
+    "sha256": "1bde5b533b28b53635af65c6f4db6a1768ae27bc39b44704129a3a66a863ae3a"
+  },
+  {
+    "personId": "f3",
+    "personName": "Olenka Zinitrovic",
+    "role": "card",
+    "path": "/images/teachers/olenka-zinitrovic-f3-card.jpg",
+    "bytes": 204323,
+    "sha256": "f2a5677345a5ee7a75dbc4f633e83123af3b5a140ddfa796e5cd37d079ca572c"
+  },
+  {
+    "personId": "f4",
+    "personName": "Wes Aurzou",
+    "role": "card",
+    "path": "/images/teachers/wes-aurzou-f4-card.jpg",
+    "bytes": 232868,
+    "sha256": "492a69a984a8ec0c4f9722176f4b19db3e00aa6c2600f1e1b4250f5d1db72a58"
+  },
+  {
+    "personId": "f5",
+    "personName": "Baron Vinalka Bigoncester",
+    "role": "card",
+    "path": "/images/teachers/baron-vinalka-bigoncester-f5-card.jpg",
+    "bytes": 269924,
+    "sha256": "d4d3c739786deb2af8aa3db3a1782207d331a4c4771ba6adc1d34fd330029ce0"
+  },
+  {
+    "personId": "f6",
+    "personName": "Feodora Kyves",
+    "role": "card",
+    "path": "/images/teachers/feodora-kyves-f6-card.jpg",
+    "bytes": 190211,
+    "sha256": "8629b392a88cfdf24e3dfdde8bf6e9cc6bfee94c1ecf386a7da8a3c3af40cea5"
+  },
+  {
+    "personId": "f7",
+    "personName": "Percival Risewell",
+    "role": "card",
+    "path": "/images/teachers/percival-risewell-f7-card.jpg",
+    "bytes": 259665,
+    "sha256": "30e0258e5e6c1b8fecefc389ae9faa2d1ba7a8ca9e65a55cddd45fe8133d0373"
+  },
+  {
+    "personId": "f8",
+    "personName": "Ruby Spears",
+    "role": "card",
+    "path": "/images/teachers/ruby-spears-f8-card.jpg",
+    "bytes": 183708,
+    "sha256": "010a5bea427d58ef2009b7553b1b15b424ad8e800bf6318c35e902d75890b98d"
+  },
+  {
+    "personId": "f9",
+    "personName": "Marina Shina",
+    "role": "card",
+    "path": "/images/teachers/marina-shina-f9-card.jpg",
+    "bytes": 185746,
+    "sha256": "c7207d9e2e6d39e5214e97adf5e12862f2a10cab24b96fe9f4f91b95d82b41cf"
+  },
+  {
+    "personId": "f10",
+    "personName": "Cirel Opaska",
+    "role": "card",
+    "path": "/images/teachers/cirel-opaska-f10-card.jpg",
+    "bytes": 190627,
+    "sha256": "57278d247e50112c2f70bb82b08b55b5835835a4e41afb5395eb4b005b9bb15b"
+  },
+  {
+    "personId": "f11",
+    "personName": "Nadore Midriel",
+    "role": "card",
+    "path": "/images/teachers/nadore-midriel-f11-card.jpg",
+    "bytes": 252143,
+    "sha256": "3c80afe7e09dd9020af576c8e5f0678143725b139da25bccb5bd54ce7b4805e7"
+  },
+  {
+    "personId": "f12",
+    "personName": "Fren Dalot",
+    "role": "card",
+    "path": "/images/teachers/fren-dalot-f12-card.jpg",
+    "bytes": 190014,
+    "sha256": "ec9746c7a169c3b2983e32313a17a770faf6ac2e5dc4fd8672fa93a53a8a77c8"
+  },
+  {
+    "personId": "f13",
+    "personName": "Blu",
+    "role": "card",
+    "path": "/images/teachers/blu-f13-card.jpg",
+    "bytes": 242794,
+    "sha256": "56a952a2ce738b28d132e759d4d004a44a5a21d46f2e51e56c40cc582776519d"
+  }
+]

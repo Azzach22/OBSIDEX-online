@@ -1,0 +1,445 @@
+{
+  "base": [
+    {
+      "name": "Diavono Comoretto",
+      "basePrestige": 513.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Rirka Brise-humain",
+      "basePrestige": 475.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Roderick Medicus",
+      "basePrestige": 468.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Emmy Jiva",
+      "basePrestige": 415.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Lilith Cinder",
+      "basePrestige": 397.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Bianca Sforza",
+      "basePrestige": 333.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Silas Blackwood",
+      "basePrestige": 323.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Luan Morneth",
+      "basePrestige": 315.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Josephine Stone",
+      "basePrestige": 315.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Samia Altomira",
+      "basePrestige": 310.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Lavinia Blackwell",
+      "basePrestige": 300.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Octavia Duxalin",
+      "basePrestige": 300.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Javier de la Cruz",
+      "basePrestige": 295.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Clara Malsca",
+      "basePrestige": 282.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Saenah Morneth",
+      "basePrestige": 275.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Licia Borges",
+      "basePrestige": 260.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Valerius Jordan",
+      "basePrestige": 258.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Tamara Loy",
+      "basePrestige": 241.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Cynatha Crestkin",
+      "basePrestige": 231.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Abona Melnais",
+      "basePrestige": 230.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Rock Aldias",
+      "basePrestige": 211.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Arthas Sunblight",
+      "basePrestige": 203.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Ilona Varga",
+      "basePrestige": 169.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Geoni Alderton",
+      "basePrestige": 151.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Edith Proctor",
+      "basePrestige": 131.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Skadi Stjarnadottir",
+      "basePrestige": 123.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Doran Kestrel",
+      "basePrestige": 122.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Meriline Olsen",
+      "basePrestige": 120.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Björn Galsen",
+      "basePrestige": 117.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Marjie Blackwell",
+      "basePrestige": 112.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Mordecai Blythe",
+      "basePrestige": 110.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Adelaide Rooks",
+      "basePrestige": 102.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Elowen Franz",
+      "basePrestige": 102.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Junior Waltan",
+      "basePrestige": 101.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Georgina Boggs",
+      "basePrestige": 98.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Galadwen Nightwind",
+      "basePrestige": 93.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Zerr Thorpe",
+      "basePrestige": 90.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Gaspard Delancre",
+      "basePrestige": 81.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Eliza Aubrey",
+      "basePrestige": 74.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Iris Greenwood",
+      "basePrestige": 73.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Maeve Alderton",
+      "basePrestige": 72.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Thalia Arkham",
+      "basePrestige": 70.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Irena Kostic",
+      "basePrestige": 67.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Celestin Risewell",
+      "basePrestige": 59.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Merio Arcanefang",
+      "basePrestige": 58.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Plev Neiven",
+      "basePrestige": 55.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Evangeline Draken",
+      "basePrestige": 54.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Lydia Pike",
+      "basePrestige": 53.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Solomon Keever",
+      "basePrestige": 52.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Saren Bekn",
+      "basePrestige": 50.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Ethan Hartwald",
+      "basePrestige": 48.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Jane Evablu",
+      "basePrestige": 47.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Clarissa Sterling",
+      "basePrestige": 43.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Remilia Delancre",
+      "basePrestige": 41.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Tav21 Vraith",
+      "basePrestige": 37.0,
+      "manualAdjustment": 0,
+      "sourceName": "Tav21 Wraith"
+    },
+    {
+      "name": "Lucina Malsca",
+      "basePrestige": 37.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Fum Powell",
+      "basePrestige": 36.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Ronar Dordo",
+      "basePrestige": 31.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Gregor Adler",
+      "basePrestige": 29.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Essian Norcard",
+      "basePrestige": 29.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Abrixia R’Fkung",
+      "basePrestige": 28.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Maelis Corrigan",
+      "basePrestige": 27.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Eleanor Briarwood",
+      "basePrestige": 24.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Meloïse Valcroix",
+      "basePrestige": 24.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Aridan MacRory",
+      "basePrestige": 23.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Revimb Tchiarfol",
+      "basePrestige": 22.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Yafael Salcedo",
+      "basePrestige": 20.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Vanilda Mendes",
+      "basePrestige": 19.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Theodore Bellgrave",
+      "basePrestige": 18.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Vito Malvezzi",
+      "basePrestige": 17.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Lenio Vaelar",
+      "basePrestige": 16.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Liora Ben-Ari",
+      "basePrestige": 16.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Maria Coleridge",
+      "basePrestige": 15.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Erin Gallagher",
+      "basePrestige": 12.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Fave Kaho",
+      "basePrestige": 11.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Ioana Petrescu",
+      "basePrestige": 11.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Oscar Fenwick",
+      "basePrestige": 10.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Tristan Monferrand",
+      "basePrestige": 10.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Priya Nair",
+      "basePrestige": 9.0,
+      "manualAdjustment": 0
+    },
+    {
+      "name": "Nathano Nelba",
+      "basePrestige": 8.0,
+      "manualAdjustment": 0
+    }
+  ],
+  "fights": [
+    {
+      "id": "fight-1",
+      "winner": "Tav21 Wraith",
+      "loser": "Cynatha Crestkin",
+      "date": null
+    },
+    {
+      "id": "fight-2",
+      "winner": "Clarissa Sterling",
+      "loser": "Meriline Olsen",
+      "date": null
+    },
+    {
+      "id": "fight-3",
+      "winner": "Vito Malvezzi",
+      "loser": "Lydia Pike",
+      "date": null
+    },
+    {
+      "id": "fight-4",
+      "winner": "Remilia Delancre",
+      "loser": "Saenah Morneth",
+      "date": null
+    },
+    {
+      "id": "fight-5",
+      "winner": "Bianca Sforza",
+      "loser": "Javier de la Cruz",
+      "date": null
+    },
+    {
+      "id": "fight-6",
+      "winner": "Thalia Arkham",
+      "loser": "Diavono Comoretto",
+      "date": null
+    }
+  ],
+  "source": "calc(1).xlsx",
+  "formulaVersion": 1
+}
