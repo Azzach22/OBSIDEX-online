@@ -20,9 +20,9 @@ function resolveImagePaths<T>(value: T): T {
  return visit(value) as T;
 }
 
-function normalizeClass(value?:string){const v=(value||'').trim();const m=v.match(/^([1-3])\\s*[-–]?\\s*([ABC])$/i);return m?m[1]+m[2].toUpperCase():v;}
+function normalizeClass(value?:string){const v=(value||'').trim();const m=v.match(/^([1-3])\s*[-–]?\s*([ABC])$/i);return m?m[1]+m[2].toUpperCase():v;}
 function normalizeNationality(value?:string){const v=(value||'').trim();const key=v.toLocaleLowerCase('fr');const aliases:Record<string,string>={'alverosian':'Alverosiane','alverosiane':'Alverosiane','brasburien':'Brasburienne','brasburienne':'Brasburienne','holmien':'Holmienne','holmienne':'Holmienne','chanzevilienne':'Chanzevillienne','chanzevillienne':'Chanzevillienne','nylmnaise':'Nylmnienne','nylmnas':'Nylmnienne','nylmnnienne':'Nylmnienne','employé w&d':'W&D','employée de w&d':'W&D'};return aliases[key]||v;}
-function splitClubs(value?:string){const v=(value||'').trim();if(!v||/^(aucun|non|à renseigner|non renseigné)$/i.test(v))return ['Sans club'];return v.split(/[,;\\n]/).map(x=>x.trim()).filter(Boolean);}
+function splitClubs(value?:string){const v=(value||'').trim();if(!v||/^(aucun|non|à renseigner|non renseigné)$/i.test(v))return ['Sans club'];return v.split(/[,;\n]/).map(x=>x.trim()).filter(Boolean);}
 export default function App(){
  const [people,setPeople]=useState<Person[]>([]); const [loading,setLoading]=useState(true); const [query,setQuery]=useState('');
  const [type,setType]=useState('all'); const [facet,setFacet]=useState('all'); const [admin,setAdmin]=useState(false);
