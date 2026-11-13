@@ -40,3 +40,24 @@
 .profile-visual{display:grid;place-items:center;overflow:hidden;background:#0c0911}
 .profile-visual img{width:100%;height:100%;object-fit:contain!important;transform:none!important;background:#0c0911}
 @media(max-width:600px){.main-nav{justify-content:stretch}.main-nav button{flex:1;justify-content:center;padding:11px 8px;font-size:9px}.ranking-grid .person-card{grid-template-columns:62px minmax(0,1fr)}.ranking-grid .portrait{width:52px;height:62px}}
+
+/* Editeur prive des dossiers */
+.admin-people{margin-top:24px}
+.people-editor-layout{display:grid;grid-template-columns:minmax(210px,270px) minmax(0,1fr);gap:18px}
+.people-picker,.person-editor{background:#110d19;border:1px solid var(--line);border-radius:6px;padding:14px;min-width:0}
+.editor-search{display:flex;align-items:center;gap:8px;border:1px solid #493957;border-radius:4px;padding:0 10px;color:#bca9cf}
+.editor-search input{width:100%;background:transparent;border:0;color:#f5edf8;padding:10px 0;outline:none}
+.people-picker-list{display:flex;flex-direction:column;gap:4px;max-height:650px;overflow:auto;margin-top:12px}
+.people-picker-list button{display:flex;flex-direction:column;align-items:flex-start;gap:4px;padding:9px 10px;background:transparent;border:1px solid transparent;color:#eee1f5;border-radius:4px;text-align:left;cursor:pointer}
+.people-picker-list button:hover,.people-picker-list button.active{background:#2a2035;border-color:#775b8d}
+.people-picker-list small{color:#a99ab8;font-size:10px}
+.person-editor .form-title{margin-bottom:16px}
+.editor-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.editor-grid label{display:flex;flex-direction:column;gap:6px;color:#bdaaca;font:10px 'DM Mono';letter-spacing:.04em}
+.editor-grid label.wide{grid-column:1/-1}
+.editor-grid input,.editor-grid select,.editor-grid textarea{width:100%;box-sizing:border-box;background:#1e1828;border:1px solid #493957;border-radius:4px;padding:10px;color:#f5edf8;font:12px Manrope;letter-spacing:normal;outline:none}
+.editor-grid textarea{resize:vertical;line-height:1.5}
+.editor-grid input:focus,.editor-grid textarea:focus,.editor-grid select:focus{border-color:#a080bb}
+.editor-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:16px}
+.editor-footer span{color:var(--gold);font-size:11px}
+@media(max-width:850px){.people-editor-layout{grid-template-columns:1fr}.people-picker-list{max-height:220px}.editor-grid{grid-template-columns:1fr}.editor-grid label.wide{grid-column:auto}.editor-footer{align-items:flex-start;flex-direction:column}}
