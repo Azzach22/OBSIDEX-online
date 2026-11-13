@@ -61,3 +61,8 @@
 .editor-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:16px}
 .editor-footer span{color:var(--gold);font-size:11px}
 @media(max-width:850px){.people-editor-layout{grid-template-columns:1fr}.people-picker-list{max-height:220px}.editor-grid{grid-template-columns:1fr}.editor-grid label.wide{grid-column:auto}.editor-footer{align-items:flex-start;flex-direction:column}}
+
+.admin-people input[type="file"]{width:100%;padding:9px;background:#171220;border:1px dashed #69527d;border-radius:4px;color:#cbbbd9;font:11px Manrope}
+.admin-people input[type="file"]::file-selector-button{margin-right:12px;padding:7px 11px;border:1px solid #80639e;border-radius:3px;background:#30233d;color:#f2e9f8;cursor:pointer}
+.admin-people input[type="file"]:disabled{opacity:.5;cursor:wait}
+.admin-people label small{color:var(--muted);font:10px Manrope;letter-spacing:normal}
